@@ -12,7 +12,7 @@
  * 
  * UtilityJs | MathUtility
  * Author: pixelThreader (Piyush Rana) 
- * @license MIT License 'https://raw.githubusercontent.com/piyush20B/UtilityJS/main/LICENSE'
+ * @license MIT License 'https://raw.githubusercontent.com/pixelThreader/UtilityJS/main/LICENSE'
  * 
  * A JavaScript utility library aiming to make life easier, save code,
  * and enhance productivity with a wide range of utilities.
